@@ -448,7 +448,7 @@ body.dark-theme{
 
 .footer_copy{
   display: block;
-  margin-top: .5rem;
+  margin: .5rem 0 2.5rem;
   text-align: center;
   font-size: var(--smaller-font-size);
   color: var(--text-color-light);
