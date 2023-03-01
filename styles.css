@@ -470,7 +470,7 @@ body.dark-theme{
   margin: 0%;
 }
 
-#tech_icons img{
+.techicons{
   width: 24px;
   height: 18px;
 }
