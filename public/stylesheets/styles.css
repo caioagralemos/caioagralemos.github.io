@@ -99,6 +99,12 @@ img {
   transition: .3s;
 }
 
+.flag{
+  height: 20px; 
+  width: 20px; 
+  margin-top: 4px;
+}
+
 .change-theme:hover{
   color: var(--first-color);
 }
